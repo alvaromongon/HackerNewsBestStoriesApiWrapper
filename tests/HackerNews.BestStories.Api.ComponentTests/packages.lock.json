@@ -48,16 +48,16 @@
       },
       "WireMock.Net": {
         "type": "Direct",
-        "requested": "[2.19.0, )",
-        "resolved": "2.19.0",
-        "contentHash": "gRRkenH4Qjil5UVwRwvSK2o5SCC9lNmMMVjjO/s0+LX7WveuUthUa5HVBvJlSHRb/R4xEf+JPeuuiKE8pyzq7A==",
+        "requested": "[2.20.0, )",
+        "resolved": "2.20.0",
+        "contentHash": "rpiL8l4bGfYHAhm+eafJX5FMpPkdCdvpXxScnoPW5oRTUCM1Xo/k3k8kuJbmxlDXxlVEUgUN8rk6n56Tc5zDeg==",
         "dependencies": {
-          "WireMock.Net.GraphQL": "2.19.0",
-          "WireMock.Net.Matchers.SystemTextJsonPath": "2.19.0",
-          "WireMock.Net.MimePart": "2.19.0",
-          "WireMock.Net.Minimal": "2.19.0",
-          "WireMock.Net.OpenTelemetry": "2.19.0",
-          "WireMock.Net.ProtoBuf": "2.19.0"
+          "WireMock.Net.GraphQL": "2.20.0",
+          "WireMock.Net.Matchers.SystemTextJsonPath": "2.20.0",
+          "WireMock.Net.MimePart": "2.20.0",
+          "WireMock.Net.Minimal": "2.20.0",
+          "WireMock.Net.OpenTelemetry": "2.20.0",
+          "WireMock.Net.ProtoBuf": "2.20.0"
         }
       },
       "xunit.v3.mtp-v2": {
@@ -658,8 +658,8 @@
       },
       "Json.More.Net": {
         "type": "Transitive",
-        "resolved": "3.0.1",
-        "contentHash": "fRctF2J2SILYG6wqP21drmeEODmCVkVQ/b3MndDu2fT1swfySyUgq7ePCk+aENGlDcIm05fyfjh9vcuqDEfv3w=="
+        "resolved": "2.2.0",
+        "contentHash": "fiyEZJNgiCzDa7/N9bZ+CnM5qnawyJ54+CkHNZ2svwxWBWNNFzydJ7RlroqMdOjokGBiLcKIxdajNvOklzlYqQ=="
       },
       "JsonConverter.Abstractions": {
         "type": "Transitive",
@@ -687,10 +687,10 @@
       },
       "JsonPath.Net": {
         "type": "Transitive",
-        "resolved": "3.0.2",
-        "contentHash": "Cmt2mvPYOLljjqSfM1xUYZYTPf8MPbwv2XpCpPxxq9u23/CGrz/fljgd1fJUNujd3+E1adNOyF1TLwppbyQwxg==",
+        "resolved": "2.2.0",
+        "contentHash": "oARgzvSWx8Xp7Y3oxapPDmB+gIGw31aqY0YS2xA0HfydYJMvWW6e0KeJIfPeCmqiOqKcOOXSwAYF/3yE+VhCOg==",
         "dependencies": {
-          "Json.More.Net": "3.0.1"
+          "Json.More.Net": "2.2.0"
         }
       },
       "MetadataReferenceService.Abstractions": {
@@ -1488,40 +1488,40 @@
       },
       "WireMock.Net.Abstractions": {
         "type": "Transitive",
-        "resolved": "2.19.0",
-        "contentHash": "I3vhSVi7SVPKU6U/N0w7Brzr9YA+TenygZDfg0521GeMUUIbZkhm4ffJOonnCQgIrKVJDF3J6lKpcB1txW3QAA=="
+        "resolved": "2.20.0",
+        "contentHash": "ujGb8NzK0NSJ15Te5aUquLfFq/wsMGrlea6QreioCqcrY8VPvY6yJobfethfy1nnINfIK6guWQies7/9XMiQuQ=="
       },
       "WireMock.Net.GraphQL": {
         "type": "Transitive",
-        "resolved": "2.19.0",
-        "contentHash": "h0pwcwL5og7FvSIDumzWGfSo68ozQtMw68KppZ3JRsVUNrxVP/I1YjDhCgIowqq3VNTuMl7ZVygb592a6PMAWA==",
+        "resolved": "2.20.0",
+        "contentHash": "IgWX2hxaIe2y1NXnsm4lgQi4/W51C7L5VYjz7XcR/ZtnWyhxYdLsjpOevE7ndPMpmve9r2zQCGRvphy0Ml9G6Q==",
         "dependencies": {
           "GraphQL.NewtonsoftJson": "8.5.0",
-          "WireMock.Net.Shared": "2.19.0"
+          "WireMock.Net.Shared": "2.20.0"
         }
       },
       "WireMock.Net.Matchers.SystemTextJsonPath": {
         "type": "Transitive",
-        "resolved": "2.19.0",
-        "contentHash": "I070XTu89wNVOkTePSgSaI9LQdgBgUDbVXPvi90jMzcs9osLIaAKhZE8FiIgfOFXJA35NqNMVgH9whu4+MWhmQ==",
+        "resolved": "2.20.0",
+        "contentHash": "WTvUjq5vvZAA57qX/UFMn+OGXCYV6GKy6ZbiJHCHpea6mrBSw5aCAYsG7PnjPx4hZiMNi5R8cCsE4uMrsfB8eg==",
         "dependencies": {
-          "JsonPath.Net": "3.0.2",
-          "WireMock.Net.Shared": "2.19.0"
+          "JsonPath.Net": "2.2.0",
+          "WireMock.Net.Shared": "2.20.0"
         }
       },
       "WireMock.Net.MimePart": {
         "type": "Transitive",
-        "resolved": "2.19.0",
-        "contentHash": "UftWbnGzzFCo/nWKkaTsXCA1BJEMQiMlqR32vdQpEqVEYJcnDHHXWBjY5GtwBjN7oMoDH+y9ofrmGWDije/hsw==",
+        "resolved": "2.20.0",
+        "contentHash": "ncquseX7i93rLY6JT4TgBafKs/MZlOvdsoqN/xlkRNJvy5zXNpRvlStStwfZR+FMhcmF2dn7uoJMI3oqD0fU2A==",
         "dependencies": {
           "Stef.Validation": "0.3.0",
-          "WireMock.Net.Shared": "2.19.0"
+          "WireMock.Net.Shared": "2.20.0"
         }
       },
       "WireMock.Net.Minimal": {
         "type": "Transitive",
-        "resolved": "2.19.0",
-        "contentHash": "glWQv2nZjcCkYeXdl1EjvDZ/ipYlLwYFpFV8JBrhvc2WE779L8cS3ciicD4/fuUVMza0zFBe8zYxgWH1+rZg3w==",
+        "resolved": "2.20.0",
+        "contentHash": "6KHfx3M4wkOeAvCHpk6r0FzvanV8gKm/tuGLtreKo9KRrKQod000oWH1lVbNiYg3KrRgJNbhLQfjbmV2CuiqCA==",
         "dependencies": {
           "JmesPath.Net": "1.1.0",
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.34.0",
@@ -1530,48 +1530,48 @@
           "Scriban.Signed": "7.2.5",
           "SimMetrics.Net": "1.0.5",
           "TinyMapper.Signed": "4.0.0",
-          "WireMock.Net.OpenApiParser": "2.19.0",
-          "WireMock.Net.Shared": "2.19.0",
-          "WireMock.Org.Abstractions": "2.19.0"
+          "WireMock.Net.OpenApiParser": "2.20.0",
+          "WireMock.Net.Shared": "2.20.0",
+          "WireMock.Org.Abstractions": "2.20.0"
         }
       },
       "WireMock.Net.OpenApiParser": {
         "type": "Transitive",
-        "resolved": "2.19.0",
-        "contentHash": "jmbw7aLPkjv4kOJPR05vEyTOir4U9CEmHTgeoSapO13OwqbFwPikcKuuXPGMtcZYUZsygOrPDGTsoldqdeREfw==",
+        "resolved": "2.20.0",
+        "contentHash": "v0pJ7KO9NxMnKq9KdG1xd1VArlEVHfrUA5Nqs4d4UZorVLitkuI2np/SzbOugQ/yitlxVj8pidlRO0zLEHkxPQ==",
         "dependencies": {
           "Newtonsoft.Json": "13.0.4",
           "RamlToOpenApiConverter.SourceOnly": "0.50.0",
           "RandomDataGenerator.Net": "1.0.19.1",
           "SharpYaml": "2.1.5",
           "Stef.Validation": "0.3.0",
-          "WireMock.Net.Abstractions": "2.19.0"
+          "WireMock.Net.Abstractions": "2.20.0"
         }
       },
       "WireMock.Net.OpenTelemetry": {
         "type": "Transitive",
-        "resolved": "2.19.0",
-        "contentHash": "mNf87hQlbhsxhhdXjjnZ0/Ea0H1XE9YV5z8yewh9zO4YmGXpLPyNPk39z8JO+z0mV2kh6SpghL43U0tpBOxqVA==",
+        "resolved": "2.20.0",
+        "contentHash": "oUINFOPHadQLwl/BkO2KXnpFyfqXSSR7f+Jml7dz/BL+eOHirD7n1xkrnKP1/lLTFLlamtRPxaJatfi6KqZ/7g==",
         "dependencies": {
           "OpenTelemetry.Exporter.OpenTelemetryProtocol": "1.15.3",
           "OpenTelemetry.Extensions.Hosting": "1.15.3",
           "OpenTelemetry.Instrumentation.AspNetCore": "1.15.2",
-          "WireMock.Net.Shared": "2.19.0"
+          "WireMock.Net.Shared": "2.20.0"
         }
       },
       "WireMock.Net.ProtoBuf": {
         "type": "Transitive",
-        "resolved": "2.19.0",
-        "contentHash": "8vATxNJ07FYnVENF7wRCC6zwNCvABDSjyM3UsLyc8Z2Qve1cvoLrEO9XYK5CQdvPWChZjB5nRXfk/E8RS+eDmA==",
+        "resolved": "2.20.0",
+        "contentHash": "amQAg8dXb6AwMY4w07qYsN/f0qIappKbAOk9TRP9SsfV0V6BPXrZsbu7GvQvOeXX14KwPZ54TJf57+zq9pEYcA==",
         "dependencies": {
           "ProtoBufJsonConverter": "0.11.0",
-          "WireMock.Net.Shared": "2.19.0"
+          "WireMock.Net.Shared": "2.20.0"
         }
       },
       "WireMock.Net.Shared": {
         "type": "Transitive",
-        "resolved": "2.19.0",
-        "contentHash": "ZIAA8XUUcnTd8p4AU3drLUCUgMi7QYKfExWxP+7/5W7IaIIvDcEzuBrNMNsnpJUufPlhXPtOEDeMgps0Z98UOQ==",
+        "resolved": "2.20.0",
+        "contentHash": "PxjMnC18IhbRi5n7hjka368nWcnK3sVRziKJ1OV/NZLF5JipA3fmtVuPCoSrNhjo4GIq34RhEW39kh3yrjHNRg==",
         "dependencies": {
           "AnyOf": "0.5.0.1",
           "Handlebars.Net.Helpers": "2.5.5",
@@ -1586,13 +1586,13 @@
           "Microsoft.AspNetCore.Http": "2.3.9",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2",
           "Stef.Validation": "0.3.0",
-          "WireMock.Net.Abstractions": "2.19.0"
+          "WireMock.Net.Abstractions": "2.20.0"
         }
       },
       "WireMock.Org.Abstractions": {
         "type": "Transitive",
-        "resolved": "2.19.0",
-        "contentHash": "am86+b/S2JXWMhZvv0E4dELfGdn9QdyZlpFLoNhHvgTUfmqALWA+uS9G13pZJUjElOsCOJfTMzT36O5AkXw5PA=="
+        "resolved": "2.20.0",
+        "contentHash": "fNA2D2jmj7NKqrEQ0aBBUYV0/zwddB0qZ9LmpXccB/kUyB2Pj4iSMDnevtHvFIX61PzJ3WgEJ4SgfHoI5EhTaQ=="
       },
       "XPath2": {
         "type": "Transitive",
